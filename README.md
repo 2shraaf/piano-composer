@@ -10,12 +10,12 @@
 
 
 ##Functions:-
-  - part(a):
-    - makeStatsListHelper :-  it used the helper methods to generate and  list of pair and make a pair of them and a specific Char x.
-    - find:-that find all frequencies of each Char in list “char” which come after specific Char x.
-    - search :- count the number of times Char X and Y come after each others .
-    - remove :- remove any pair of Zero frequency .
-    - sortGT:- compare Function for the pair for SortBy.
- - part(b):
-    - findI :-  used the Comulative Frequancy to find the interval that include specific number .
-    - compose :-  Check if Char fund in list of “Char” and if it Have any Char After it ...otherwise i will put it in Symphony and get the second char by using method findI.
+  * part(a):
+    * makeStatsListHelper :-  it used the helper methods to generate and  list of pair and make a pair of them and a specific Char x.
+    * find:-that find all frequencies of each Char in list “char” which come after specific Char x.
+    * search :- count the number of times Char X and Y come after each others .
+    * remove :- remove any pair of Zero frequency .
+    * sortGT:- compare Function for the pair for SortBy.
+ * part(b):
+    * findI :-  used the Comulative Frequancy to find the interval that include specific number .
+    * compose :-  Check if Char fund in list of “Char” and if it Have any Char After it ...otherwise i will put it in Symphony and get the second char by using method findI.
